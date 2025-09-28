@@ -1,0 +1,47 @@
+.twoButtonNav {
+    background-color: rgb(20, 78, 171);
+    margin: auto;
+    width: 50%;
+    margin-top: 5rem;
+    border-radius:  1rem;
+    height: 20rem;
+
+}
+
+body {
+    background-color: rgb(26, 26, 76);
+}
+
+.authorHeadings {
+    text-align: center;
+    font-weight: 400;
+    text-decoration: underline;
+    color: rgb(216, 242, 242);
+    letter-spacing: 0.05rem;
+    font-family: Verdana;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    text-underline-offset: 0.7rem;
+
+}
+
+.navButtons {
+    display: block;
+    margin: auto;
+    margin-top: 1rem;
+    width: 20%;
+    height: 7%;
+    text-align: center;
+    text-decoration: none;
+    color: aliceblue;
+    background-color: rgb(15, 15, 70);
+    border-radius: 0.2rem;
+}
+
+.navButtons:hover {
+    background-color: rgb(69, 133, 188);
+}
+
+#firstNavButton {
+    margin-top: 4rem;
+}
